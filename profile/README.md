@@ -26,8 +26,8 @@ A[بيان]  -->B(البحث والتطوير)
 
 B  -->  E(fa:fa-book الدراسات والتقارير)
 
-B  -->  L[fas:fa-robot الذكاء الاصطناعي]
+B  -->  L(fas:fa-robot الذكاء الاصطناعي)
 
-B  -->  F[fa:fa-database فريق البيانات]
+B  -->  F(fa:fa-database فريق البيانات)
 
 
